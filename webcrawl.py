@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # 
-# Orogianlly written by Seth Kenlon for plagiarism checking
-# minor tweaks by Ajoy for using for web crawling
+# Origianlly written by Seth Kenlon for plagiarism checking
+# minor tweaks by Ajoy to use for web crawling
 
 # This program is free software: you can redistribute it
 # and/or modify it under the terms of the GNU General
@@ -23,7 +23,8 @@ import random
 from pathlib import Path
 from googlesearch import search
 
-# Read the line of the file data.txt
+# Read the line of the text file 
+# (eg: data.txt)
 def Scrub(ARG):
     f = open(ARG, 'r')
     LINES = f.readlines()
