@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # 
-# Origianlly written by Seth Kenlon for plagiarism checking
+# Originally written by Seth Kenlon for plagiarism checking
 # minor tweaks by Ajoy to use for web crawling
 
 # This program is free software: you can redistribute it
