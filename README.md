@@ -13,7 +13,7 @@ $ pip install -r requirements.txt
 
 ### Example Usage
 ```
-$ python webcrawl.py data.txt - minimal output
+$ python webcrawl.py data.txt => minimal output
 
-$ python webcrawl.py -v data.txt - with more verbose output
+$ python webcrawl.py -v data.txt => with more verbose output
 
