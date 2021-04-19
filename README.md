@@ -6,6 +6,12 @@
 	- pathlib
 	- googlesearch
 - A text file with the lines to search (example: data.txt) 
+
+### Installing Prerequisites
+```
+$ pip install -r requirements.txt
+
+
 ```
 $ python webcrawl.py data.txt - minimal output
 
